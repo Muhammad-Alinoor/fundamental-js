@@ -34,3 +34,4 @@ console.log(("Buying egg Now = "), eggNumber);
 totalEggPrice = eggPrice * eggNumber;
 console.log(("After increase price, the total Cost = "), totalEggPrice);
 
+
