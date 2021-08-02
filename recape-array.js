@@ -33,3 +33,7 @@ console.log(items);
 console.log(" First item live now in firstItems house");
 var firstItem = items.shift();
 console.log(firstItem);
+// string and array operation sum of mathe 
+var num1 = "99.5";
+var num2 = 15;
+console.log(num1 + num2);
